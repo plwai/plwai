@@ -7,4 +7,4 @@
 📫 Contact me on:
 - Twitter: [@PaiLeeWai](https://twitter.com/PaiLeeWai)
 - LinkedIn: [Pai Lee Wai](https://www.linkedin.com/in/pai-lee-wai-021170a3/)
-- Discord: plwai#9497
+- Discord: `plwai#9497`
